@@ -66,6 +66,50 @@ class AliHasnain:
       <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>💡 <a href="https://github.com/aliHasnainme/Concept2Idea">Concept2Idea</a></h4>
+      <p>AI-driven startup idea and Business Model Canvas generator powered by FastAPI agents, Next.js frontend, and Flutter app.</p>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+    </td>
+    <td width="50%" valign="top">
+      <h4>🗺️ <a href="https://github.com/aliHasnainme/Google_map_scrapper">Google-Map-Scrapper</a></h4>
+      <p>Python tool that automates business information collection from Google Maps, extracting names, contacts, and addresses.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" />
+      <img src="https://img.shields.io/badge/Automation-FF5722?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🏥 <a href="https://github.com/aliHasnainme/Healthcare_system">Healthcare-Diagnoses-System</a></h4>
+      <p>Web-based AI diagnostics tool utilizing Deep Learning to analyze medical images like MRI scans and chest X-rays.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+      <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+    </td>
+    <td width="50%" valign="top">
+      <h4>🏠 <a href="https://github.com/aliHasnainme/Interior_Ai">InteriorAI</a></h4>
+      <p>Generative AI interior design platform enabling users to upload room photos and redesign them using Gemini and LangChain.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Gemini-8E44AD?style=flat-square&logo=google&logoColor=white" />
+      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🎫 <a href="https://github.com/aliHasnainme/qr_event_manager">QR-Event-Manager</a></h4>
+      <p>Flutter app managing event attendance through UUID-based QR generation, camera scanner, and local SQLite database.</p>
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+      <img src="https://img.shields.io/badge/Provider-0175C2?style=flat-square&logo=dart&logoColor=white" />
+    </td>
+    <td width="50%" valign="top">
+      <!-- Empty cell for layout alignment -->
+    </td>
+  </tr>
 </table>
 
 ---
